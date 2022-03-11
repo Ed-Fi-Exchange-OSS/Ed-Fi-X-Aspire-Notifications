@@ -1,7 +1,7 @@
 # Contributors List
 
-{CUSTOMIZE THIS FILE by correcting the "contributors graph" link below and
-then removing this note}
+* Doris Ma - dma@aspirepublicschools.org
+* Saurabh Kulkarni - skulkarni@aspirepublicschools.org
 
 This is the list of the project's significant contributors.
 
